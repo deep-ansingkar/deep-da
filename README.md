@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <img src='https://user-images.githubusercontent.com/118118102/221144300-8081b8de-3f3a-4ed1-957b-2e5f2af4b4ae.png' alt='logo' width='250px' margin='0'/>
 
-# Hi there 👋 I am [Deep Ansingkar](linkedin.com/in/deep-ansingkar-94985121b/) 
+# Hi there 👋 I am [Deep Ansingkar](https://www.linkedin.com/in/deep-ansingkar-94985121b/) 
 
 
 >I am a Full stack web developer. I love ReactJS, Open source, love building stuff.
